@@ -1,6 +1,4 @@
-# number-guessing-game
-The Number Guessing Game is a Python console app where users guess a randomly selected number within a custom range. It promotes logical thinking using a binary search approach. Players receive feedback on each guess and win if correct within limited attempts, or see the correct number if they fail.
-# 🎯 Number Guessing Game
+Number Guessing Game
 
 The **Number Guessing Game** is a simple Python console application that challenges users to guess a randomly selected number within a user-defined range. It encourages logical thinking and problem-solving by promoting the use of a binary search strategy to identify the number efficiently within a limited number of attempts.
 
